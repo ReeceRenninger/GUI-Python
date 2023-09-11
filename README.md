@@ -23,5 +23,5 @@ pip install tkinter
 python3 main.py
 ```
 
-7. 
+
 
